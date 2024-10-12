@@ -70,4 +70,5 @@ docker-compose exec mysql mysql -uroot -p
 ## Credits
 
 This project was created by My User (mrm.elec@email.com)
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mrmoghadasi/)](https://www.linkedin.com/in/mrmoghadasi/)  [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mrm.elec@gmail.com)](mailto:mrm.elec@gmail.com)
